@@ -37,7 +37,7 @@ function gerarNumeroAleatorio(){
 
 function limparCampo(){
     chute = document.querySelector('input');
-    chute.valeu = '';
+    chute.value = '';
 }
 
 function reiniciarJogo(){
